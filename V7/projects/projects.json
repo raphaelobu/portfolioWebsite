@@ -1,0 +1,93 @@
+[
+    {
+      "projectName": "PCB  Motor Controller",
+      "singleSentenceSummary": "Designing an H-Bridge Motor Controller",
+      "fields": "Electrical Engineering",
+      "skills": "KiCad, Breadboard",
+      "imageFileLocation": "./projects/PCBMotorController.png"
+    },
+    {
+      "projectName": "Boston Moving Company",
+      "singleSentenceSummary": "Developing a Website for a Small Business",
+      "fields": "Computer Science",
+      "skills": "HTML, CSS, JavaScript, mySQL, PHP",
+      "imageFileLocation": "./projects/bostonMovingCompany.png"
+    },
+    {
+      "projectName": "Product Teardown",
+      "singleSentenceSummary": "Blood Pressure Monitor Teardown",
+      "fields": "Mechanical Engineering",
+      "skills": "Solidworks",
+      "imageFileLocation": "./projects/productTeardown.png"
+    },
+    {
+      "projectName": "Design for Loading",
+      "singleSentenceSummary": "Designing for a Given Flexion Under Loading",
+      "fields": "Mechanical Engineering",
+      "skills": "Solidworks, FEA",
+      "imageFileLocation": "./projects/designForLoading.png"
+    },
+    {
+      "projectName": "Image Manipulation",
+      "singleSentenceSummary": "An Image Compression & Decompression Tool",
+      "fields": "Computer Science",
+      "skills": "C",
+      "imageFileLocation": "./projects/imageManipulation.png"
+    },
+    {
+      "projectName": "Inclusive Drill Redesign",
+      "singleSentenceSummary": "Modifying a Drill for a Broader Market",
+      "fields": "Mechanical Engineering",
+      "skills": "Solidworks",
+      "imageFileLocation": "./projects/inclusiveDrillRedesign.png"
+    },
+    {
+      "projectName": "Mechanical Motion Transfer",
+      "singleSentenceSummary": "Simulating a Motion Transfer System",
+      "fields": "Mechanical Engineering",
+      "skills": "MATLAB, Solidworks, 3D-Printing",
+      "imageFileLocation": "./projects/mechanicalMotionTransfer.png"
+    },
+    {
+      "projectName": "PCB Power Supply",
+      "singleSentenceSummary": "Designing Power Supply Circuit & PCB",
+      "fields": "Electrical Engineering",
+      "skills": "KiCad, Breadboard",
+      "imageFileLocation": "./projects/pcbPowerSupply.png"
+    },
+    {
+      "projectName": "Tool Rack FEA",
+      "singleSentenceSummary": "Modelling and FEA on a Tool Rack",
+      "fields": "Mechanical Engineering",
+      "skills": "Solidworks, FEA",
+      "imageFileLocation": "./projects/toolRackFEA.png"
+    },
+    {
+      "projectName": "Phone Case Model",
+      "singleSentenceSummary": "Designing a Simple Iphone Case",
+      "fields": "Mechanical Engineering",
+      "skills": "Solidworks",
+      "imageFileLocation": "./projects/phoneCaseModel.png"
+    },
+    {
+      "projectName": "Artist Link Finder",
+      "singleSentenceSummary": "Using a Tree to Find Links Between Artists",
+      "fields": "Computer Science",
+      "skills": "C++",
+      "imageFileLocation": "./projects/artistLinkFinder.png"
+    },
+    {
+      "projectName": "Assembly of a Juicer",
+      "singleSentenceSummary": "Assembly of Juicer Components",
+      "fields": "Mechanical Engineering",
+      "skills": "Solidworks",
+      "imageFileLocation": "./projects/assemblyOfAJuicer.png"
+    },
+    {
+      "projectName": "Support Base Model",
+      "singleSentenceSummary": "Modelling a Pipe Support Base Component",
+      "fields": "Mechanical Engineering",
+      "skills": "Solidworks, 3D-Printing",
+      "imageFileLocation": "./projects/supportBaseModel.png"
+    }
+   ]
