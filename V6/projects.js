@@ -51,5 +51,5 @@ for (i=0;i< data.length;i++){
 
 }
 projectGrid += '</div>';
-document.getElementByClass(gridContainer).innerHTML = projectGrid ;
+document.getElementByClass("gridContainer").innerHTML = projectGrid ;
 }
