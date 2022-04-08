@@ -1,5 +1,5 @@
 var ourRequest = new XMLHttpRequest();
-var projectGrid = document.getElementByClass("gridContainer").innerHTML;
+// var projectGrid = document.getElementByClass("gridContainer").innerHTML;
 function reqHandler(){
 ourRequest.open('GET', 'https://raphaelobu.github.io/portfolioWebsite/V6/projects/projects.json');
 ourRequest.onload = function(){
