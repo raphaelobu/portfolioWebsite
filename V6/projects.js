@@ -1,14 +1,15 @@
 var ourRequest = new XMLHttpRequest();
 // var projectGrid = document.getElementByClass("gridContainer").innerHTML;
 function reqHandler(){
+  console.log("request sent")
 ourRequest.open('GET', 'https://raphaelobu.github.io/portfolioWebsite/V6/projects/projects.json');
+console.log("request success")
 ourRequest.onload = function(){
 var rawData = ourRequest.responseText;
 var ourData= JSON.parse(rawData);
 renderHtml(ourData);
 };
 ourRequest.send();
-console.log("request sent")
 };
 
 
