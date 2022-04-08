@@ -1,0 +1,14 @@
+﻿projectName,singleSentenceSummary,fields(s),skill(s),imageFileLocation
+PCB  Motor Controller,Designing an H-Bridge Motor Controller,Electrical Engineering,"KiCad, Breadboard",./projects/PCBMotorController.png
+Boston Moving Company,Developing a Website for a Small Business,Computer Science,"HTML, CSS, JavaScript, mySQL, PHP",./projects/bostonMovingCompany.png
+Product Teardown,Blood Pressure Monitor Teardown,Mechanical Engineering,Solidworks,./projects/productTeardown.png
+Design for Loading,Designing for a Given Flexion Under Loading,Mechanical Engineering,"Solidworks, FEA",./projects/designForLoading.png
+Image Manipulation,An Image Compression & Decompression Tool,Computer Science,C,./projects/imageManipulation.png
+Inclusive Drill Redesign,Modifying a Drill for a Broader Market,Mechanical Engineering,Solidworks,./projects/inclusiveDrillRedesign.png
+Mechanical Motion Transfer,Simulating a Motion Transfer System,Mechanical Engineering,"MATLAB, Solidworks, 3D-Printing",./projects/mechanicalMotionTransfer.png
+PCB Power Supply,Designing Power Supply Circuit & PCB,Electrical Engineering,"KiCad, Breadboard",./projects/pcbPowerSupply.png
+Tool Rack FEA,Modelling and FEA on a Tool Rack,Mechanical Engineering,"Solidworks, FEA",./projects/toolRackFEA.png
+Phone Case Model,Designing a Simple Iphone Case,Mechanical Engineering,Solidworks,./projects/phoneCaseModel.png
+Artist Link Finder,Using a Tree to Find Links Between Artists,Computer Science,C++,./projects/artistLinkFinder.png
+Assembly of a Juicer,Assembly of Juicer Components,Mechanical Engineering,Solidworks,./projects/assemblyOfAJuicer.png
+Support Base Model,Modelling a Pipe Support Base Component,Mechanical Engineering,"Solidworks, 3D-Printing",./projects/supportBaseModel.png
