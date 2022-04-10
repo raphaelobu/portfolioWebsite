@@ -1,5 +1,38 @@
+/*Services specific content*/
+div.contactInfo{
+  padding-top: 5vh;
+}
+
+div.contactPoints{
+  padding-top: 0;
+  height: 35vh;
+}
+
+div.phoneAvailability{
+  padding-top: 27px;
+  text-align: center;
+}
+
+div.left30Contact{
+  width:28%;
+  float:left;
+}
+
+div.right70Contact{
+  width:67%;
+  margin-left: 3%;
+  float:right;
+  background-color: white;
+  height: auto;
+}
+
+
+
+
+
+
 div.contactFormBoxOuter{
-  padding: 2% 5% 5% 5%;
+  padding: 0% 5% 5% 5%;
 }
 
 div.contactFormBoxInner{
