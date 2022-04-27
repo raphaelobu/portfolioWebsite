@@ -8,18 +8,19 @@ body {
   /*General Layout*/
   div.twoSides{
     margin-left: 0px;
-    margin-top: -20%;
+    margin-top: -40vh;
     display: flex;
   }
 
   div.left50{
-    padding-left: 200px;
+    padding-left: 220px;
     margin: auto;
     width:100%;
     height: 100%;
   }
   
   div.right50{
+    margin: auto;
     width:100%;
     height: 100%;
     float:right;
@@ -230,7 +231,7 @@ a.socialBtn:hover{
     margin-left: 300px; 
     overflow:hidden;
     position: relative;
-    height: 50%;
+    height: 80vh;
   }
   
   header.homeHeader::after{
@@ -246,24 +247,16 @@ a.socialBtn:hover{
     z-index: -1;
   }
 
-  div.homeHeadLayout{
-    padding-top:50%;
-  }
-  div.homeHeaderPadding{
-    padding-top:5%;
-  }
-
   img.homeImg{
     padding: 0;
     margin:0;
+    margin-top: -50px;
     width: 300px;
     float: right;
     margin-right:15%;
-    margin-top: -10%;
   }
 
   div.welcomeTextBox{
-    margin-top: -6%;
     z-index: 0;
   }
 
