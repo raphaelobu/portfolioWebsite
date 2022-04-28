@@ -1,10 +1,10 @@
-  .gridContainer {
-    display: grid;
-    row-gap: 12px;
-    column-gap: 4%;
-    grid-template-columns: 48% 48%;
-    grid-template-rows: 280px 280px 280px 280px 280px 280px ;
-  }
+.projectContainer {
+  display: grid;
+  row-gap: 4%;
+  column-gap: 4%;
+  grid-template-columns: 48% 48%;
+}
+
 
 
 div.marginOuter{
