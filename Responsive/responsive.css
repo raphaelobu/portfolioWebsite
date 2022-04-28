@@ -278,4 +278,40 @@ a.hamNavBtn.active {
       width:fit-content;
   }
 
+    /* Education page content */
+    div.fieldSection{
+        padding:10%;
+        margin:0px;
+        width: 80%;
+        min-width: 370px;
+    }
+
+
+
+      @media only screen and (max-width: 1030px) {
+        li.fieldsNavBtn {
+            width:40%; 
+            padding-left: 5%; 
+            padding-right: 5%;
+            }
+
+        @media only screen and (max-width: 540px) {
+            li.fieldsNavBtn {
+                width:80%; 
+                padding-left: 10%; 
+                padding-right: 10%;
+                }
+            }
+      }
+
+
+    div.fieldOfFocus{
+        margin-left:10%;
+        margin-right: 10%;
+        width: 80%;
+        height:480px;
+        }
+        
+        
+
 }
