@@ -344,6 +344,7 @@ a.hamNavBtn.active {
             row-gap: 12%;
             grid-template-columns: 100%;
             grid-template-rows: 28% 28% 28% ;
+            padding-bottom: 120px;
             }   
         } 
 
