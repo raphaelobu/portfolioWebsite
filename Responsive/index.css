@@ -325,7 +325,8 @@ div.endMain{
 /* Author Tag */
 div.authorTag{
   height: 80px;
-  display: flex;
+  display: inline-flex;
+  padding-bottom: 50px;
 }
 
 div.outerCircle{
