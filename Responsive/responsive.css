@@ -257,6 +257,7 @@ a.hamNavBtn.active {
       margin: 0px;
       margin-top: 150px;
       width: 100%;
+      display: flex;
   }
   @media only screen and (max-width: 540px) {
     h2{
@@ -265,10 +266,10 @@ a.hamNavBtn.active {
   }
 
   div.aboutSection{
-      padding:10%;
-      margin:0px;
+      padding:0;
+      margin:auto;
       width: 80%;
-      /* min-width: 370px; */
+      min-width: 296px;
   }
   div.authorTag{
       margin-top: 50px;
