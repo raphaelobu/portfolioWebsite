@@ -310,9 +310,10 @@ a.hamNavBtn.active {
 
 
     div.fieldOfFocus{
-        margin-left:10%;
-        margin-right: 10%;
+        padding:0;
+        margin:auto;
         width: 80%;
+        min-width: 296px;
         height:480px;
         }
 
