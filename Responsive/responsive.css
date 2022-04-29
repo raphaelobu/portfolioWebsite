@@ -264,7 +264,7 @@ a.hamNavBtn.active {
       padding:10%;
       margin:0px;
       width: 80%;
-      min-width: 370px;
+      /* min-width: 370px; */
   }
   div.authorTag{
       margin-top: 50px;
