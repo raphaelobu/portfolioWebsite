@@ -286,10 +286,10 @@ a.hamNavBtn.active {
 
     /* Education page content */
     div.fieldSection{
-        padding:10%;
-        margin:0px;
+        padding:0;
+        margin:auto;
         width: 80%;
-        min-width: 370px;
+        min-width: 296px;
     }
 
       @media only screen and (max-width: 1030px) {
@@ -330,10 +330,10 @@ a.hamNavBtn.active {
     }
 
     div.experienceSection{
-        padding:10%;
-        margin:0px;
+        padding:0;
+        margin:auto;
         width: 80%;
-        min-width: 370px;
+        min-width: 296px;
     }
     @media only screen and (max-width: 800px) {
         .projectContainer {
