@@ -247,6 +247,10 @@ a.hamNavBtn.active {
 
   }
 
+  p{
+      max-width: 100%;
+  }
+
   /* About style page content */
   div.main{
       padding:0px;
