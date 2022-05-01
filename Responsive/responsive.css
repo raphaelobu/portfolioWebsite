@@ -212,6 +212,9 @@ a.hamNavBtn.active {
   div.left50{
     padding-left: 0px;
   }
+
+
+
   @media only screen and (max-width: 800px) {
     div.twoSides{
       margin-left: 0px;
@@ -243,6 +246,24 @@ a.hamNavBtn.active {
 
     div.welcomeTextBox{
       margin: auto;
+    }
+
+      /*Alignment of contact page*/
+    div.sellingPoints{
+      display: inline-block;
+    }
+    div.left30Contact{
+      margin: auto;
+      width:100%;
+      height: 50%;
+      float:center;
+    }
+
+    div.right70Contact{
+      margin: auto;
+      width:100%;
+      height: 100%;
+      float:center;
     }
 
   }
