@@ -291,6 +291,7 @@ a.hamNavBtn.active {
       margin:auto;
       width: 80%;
       min-width: 296px;
+      padding-bottom: 20px;
   }
   div.authorTag{
       margin-top: 50px;
@@ -360,19 +361,18 @@ a.hamNavBtn.active {
     @media only screen and (max-width: 800px) {
         .projectContainer {
             display: grid;
-            row-gap: 2%;
+            row-gap: 30px;
             grid-template-columns: 100%;
+            grid-template-rows: repeat(12, 240px);
           }   
         }
 
     @media only screen and (max-width: 800px) {
         .experienceContainer {
             display: grid;
-            row-gap: 12%;
+            row-gap: 30px;
             grid-template-columns: 100%;
-            grid-template-rows: 28% 28% 28% ;
-            padding-bottom: 120px;
-            }   
+            grid-template-rows: repeat(3, 240px);
         } 
 
 }
