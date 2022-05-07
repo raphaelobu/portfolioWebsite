@@ -363,7 +363,7 @@ a.hamNavBtn.active {
             display: grid;
             row-gap: 30px;
             grid-template-columns: 100%;
-            grid-template-rows: repeat(12, 240px);
+            grid-template-rows: repeat(4, 240px);
           }   
         }
 
